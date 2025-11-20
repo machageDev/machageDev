@@ -49,8 +49,7 @@ Currently developing full-stack systems with Flutter, Django, and clean API arch
 
 ### ⭐ Featured Projects
 
-#### 🚗 Mustang Car Shop (Django)
-A complete car-selling platform with cart, checkout, and admin panel.
+
 
 #### 🌸 Flower Classifier (CNN + Django)
 Deep learning flower recognition system deployed with UI.
